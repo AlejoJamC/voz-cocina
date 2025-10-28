@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Voz-Cocina",
+    "slug": "voz-cocina",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#000000",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vozcocina.app"
+    }
+  }
+}
+
